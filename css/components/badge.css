@@ -1,0 +1,31 @@
+.badge {
+    background-color: tomato;
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: 600;
+}
+
+.badge__new {
+    background-color: tomato;
+    width: 22px;
+    height: 22px;
+    font-size: 12px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+    position: absolute;
+    top: -10px;
+}
+
+.notification__badge {
+    position: relative;
+    left: 20px;
+}
