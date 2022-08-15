@@ -27,7 +27,7 @@
 .more-suggestions__icon-image {
     width: 60px;
     height: 60px;
-    background-color: var(--yellow);
+    background-color: var(--blue);
     border-radius: 10px;
     display: flex;
     justify-content: center;
@@ -41,6 +41,6 @@
 }
 
 .more-suggestions__icon span{
-    color: rgba(0, 0, 0, 0.3);
+    color: white;
     font-weight: 600;
 }

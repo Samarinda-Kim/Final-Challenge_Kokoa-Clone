@@ -12,11 +12,12 @@
 
 .badge__new {
     background-color: tomato;
-    width: 22px;
+    width: 12px;
     height: 22px;
     font-size: 12px;
     border-radius: 50%;
     display: flex;
+    text-align: center;
     justify-content: center;
     align-items: center;
     color: white;
